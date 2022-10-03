@@ -12,6 +12,6 @@ http://todolist-env.eba-623q3sr9.us-east-1.elasticbeanstalk.com/
 
 
 
+Preview
 
-
-![preview](https://user-images.githubusercontent.com/110851299/193533767-33bf275a-1c55-4d12-bdd1-a030291a23e1.png)
+![previewtodolist](https://user-images.githubusercontent.com/110851299/193541008-0c82ab8c-3fd2-47af-8af9-6b2256bd5349.png)
